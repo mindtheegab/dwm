@@ -28,6 +28,16 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 ## Installation for newbs
 
 ```bash
+dependencies for Debian
+  apt install build-essential
+  apt install libx11-dev
+  apt install libxft-dev
+  apt install libxinerama-dev
+  apt install libx11-xcb-dev
+  apt install libxcb-res0-dev
+```
+
+```bash
 git clone https://github.com/LukeSmithxyz/dwm.git
 cd dwm
 sudo make install
