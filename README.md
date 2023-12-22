@@ -7,7 +7,7 @@ Check out [config.h](config.h) for bindings and config
 
 ## Patches and features
 
-- [Clickable statusbar](https://dwm.suckless.org/patches/statuscmd/) with my build of [dwmblocks](https://github.com/lukesmithxyz/dwmblocks).
+- [Clickable statusbar](https://dwm.suckless.org/patches/statuscmd/) with Luke's build of [dwmblocks](https://github.com/lukesmithxyz/dwmblocks).
 - Reads [xresources](https://dwm.suckless.org/patches/xresources/) colors/variables (i.e. works with `pywal`, etc.).
 - scratchpad: Accessible with <kbd>mod+shift+enter</kbd>.
 - New layouts: bstack, fibonacci, deck, centered master and more. All bound to keys <kbd>super+(shift+)t/y/u/i</kbd>.
