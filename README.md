@@ -1,14 +1,9 @@
 # Luke's build of dwm
 
 ## FAQ
+! 
+Check out [config.h](config.h) for bindings and config
 
-> What are the bindings?
-
-This is suckless, mmmbud, the source code is the documentation! Check out [config.h](config.h).
-
-Okay, okay, actually I keep a readme in `larbs.mom` for my whole system, including the binds here.
-Press <kbd>super+F1</kbd> to view it in dwm (zathura is required for that binding).
-I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 
 ## Patches and features
 
