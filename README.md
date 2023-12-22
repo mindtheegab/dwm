@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# Gab's build of dwm(forked from Luke)
 
 ## FAQ
 ! 
