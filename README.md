@@ -22,7 +22,7 @@ Check out [config.h](config.h) for bindings and config
 
 Installation
 
-dependencies for Debian
+dependencies for Debian/Ubuntu
 
 ```bash
   apt install build-essential
