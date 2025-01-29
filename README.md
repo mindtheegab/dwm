@@ -25,12 +25,12 @@ Installation
 dependencies for Debian/Ubuntu
 
 ```bash
-  apt install build-essential
-  apt install libx11-dev
-  apt install libxft-dev
-  apt install libxinerama-dev
-  apt install libx11-xcb-dev
-  apt install libxcb-res0-dev
+  sudo apt install build-essential -y
+  sudo apt install libx11-dev -y
+  sudo apt install libxft-dev -y
+  sudo apt install libxinerama-dev -y
+  sudo apt install libx11-xcb-dev -y
+  sudo apt install libxcb-res0-dev -y
 ```
 
 ```bash
